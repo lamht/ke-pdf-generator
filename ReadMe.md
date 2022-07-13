@@ -17,7 +17,7 @@ Request POST {host}/pdf
         "<h2>Content page 2</h2>"
     ],
     "Footer": "<h2>Footer</h2>",    
-    "BackgroundUrl": "https://storage.googleapis.com/kikkervndevbucket/pdf2image/59e525ff-2bef-4c87-9b5f-a2a904fc9123/1081445c-e0fe-467c-8a95-427a3db878c5.png",
+    "BackgroundUrl": "https://storage.googleapis.com/kikkeruatbucket/pdf2image/59e525ff-2bef-4c87-9b5f-a2a904fc9123/background.png",
     "Margins": {
         "Top": 70,
         "Bottom": 20,
