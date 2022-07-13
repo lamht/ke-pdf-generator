@@ -8,9 +8,9 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />
-    <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    <PackageReference Include="DinkToPdf.Standard" Version="1.1.0" />
     <PackageReference Include="itext7" Version="7.2.1" />
-    <PackageReference Include="iTextSharp" Version="5.5.13.2" />
+    <PackageReference Include="iTextSharp.NetCore" Version="5.5.13.1" />
   </ItemGroup>
 
   <ItemGroup>
